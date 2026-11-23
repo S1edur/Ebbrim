@@ -5,10 +5,11 @@
     <key>CFBundleName</key><string>Ebbrim</string>
     <key>CFBundleDisplayName</key><string>Ebbrim</string>
     <key>CFBundleIdentifier</key><string>com.denys.ebbrim</string>
-    <key>CFBundleVersion</key><string>2</string>
-    <key>CFBundleShortVersionString</key><string>2.0</string>
+    <key>CFBundleVersion</key><string>3</string>
+    <key>CFBundleShortVersionString</key><string>2.0.1</string>
     <key>CFBundleExecutable</key><string>Ebbrim</string>
     <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
     <key>LSMinimumSystemVersion</key><string>26.0</string>
     <key>LSUIElement</key><true/>
     <key>LSApplicationCategoryType</key><string>public.app-category.developer-tools</string>

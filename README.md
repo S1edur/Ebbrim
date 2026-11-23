@@ -1,6 +1,8 @@
-# Ebbrim
+<p align="center"><img src="Ebbrim/Icon/icon-1024.png" alt="Ebbrim" width="128"></p>
 
-Your Claude and Codex plan limits, live, at the edge of your Mac's screen.
+<h1 align="center">Ebbrim</h1>
+
+<p align="center">Your Claude and Codex plan limits, live, at the edge of your Mac's screen.</p>
 
 Ebbrim is a small macOS app that sits on the side or bottom of your screen
 and shows how much of your 5-hour session and your weekly limit you have used
