@@ -1,0 +1,8 @@
+.DS_Store
+
+# build output (kept out of Spotlight)
+build.noindex/
+*.app/
+
+# local tooling
+.superpowers/

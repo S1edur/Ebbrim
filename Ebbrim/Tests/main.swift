@@ -1,0 +1,22 @@
+import Foundation
+
+zstdTests()
+cacheParsingTests()
+desktopCacheSourceTests()
+codexTests()
+aggregatorTests()
+statusLineTests()
+accessTextTests()
+reviewFixTests()
+feedSettingsTests()
+feedSettingsTests2()
+disconnectTests()
+disconnectPromptTests()
+planInferenceTests()
+uninstallerTests()
+uninstallerPrefsFileTests()
+firstRunTests()
+mockFreshTests()
+
+print("\(testsPassed) passed, \(testsFailed) failed")
+exit(testsFailed == 0 ? 0 : 1)
