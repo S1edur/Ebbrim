@@ -11,6 +11,8 @@ local dev servers you have running.
 
 It needs no login, no token and no password, and it never goes online itself.
 
+About: https://www.rudenkod.com/work/ebbrim
+
 ## Install
 
 <p align="center">
